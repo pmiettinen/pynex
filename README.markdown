@@ -6,6 +6,12 @@ Python RINEX utilities
 Installation
 ------------
 
+For dependencies:
+
+    $ sudo bash deps.sh
+
+Install:
+
     $ python setup.py install
 
 Alternatively, if you are developing pyNEX and want to install a link to your working copy:
